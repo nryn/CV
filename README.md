@@ -1,48 +1,76 @@
-## Your Name
+## Narayan O'Hanlon
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+[Digital Artist's Portfolio](http://nryn.co.uk) | [Github](https://github.com/nryn)
+
+I'm a Software Engineer working in an exciting Agile/XP Product Development Team in London.
+With years behind me as a Solutions Engineer for a fast-growing Online Video Technology business, I have proven experience investigating, debugging and fixing all manner of technical and business challenges in a flexible way.
+
+Now, I'm looking to gain experience in Software Development with a view to quickly expand my technical skill set.
+
+After time spent hacking away on a range of projects including websites for creative start-ups, and interactive art installations, I’m excited to take the reins on moving my career to the heart of modern Software Development - writing robust code by collaborating with a team in an Agile Development environment.
 
 ## Skills
 
-#### This Skill
+#### Web Debugging
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+As a Senior Solutions Engineer I built strong skills debugging 1st and 3rd-party code in the browser on hundreds of premium publisher's webpages.
 
-- Experience
-- Achievements
-- Evidence
+- Fluency with Browser Dev Tools' features - Strong understanding of HTTP, the DOM, cookies.
+- Experienced with in-browser debugging by stepping through client-side (often minified) JS using breakpoints.
+- User of Charles Proxy (Mobile and Desktop) and Requestly, to play with Network Requests and Response payloads for testing purposes.
 
-#### Another Skill
+#### Databases, Data Analysis
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- Strong SQL knowledge, daily use of Postgres and Vectorwise.
+- Well-versed with Splunk, a tool used for ad-hoc querying against massive datasets.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Video Ad Technology
+
+- Mature knowledge of the Online Video Ad domain, both technical and operational knowledge.
+- Experienced debugging RTB issues, trafficking VAST and VPAID ads, and other IAB-spec ad systems.
+- Worked closely with some of the world's largest publishers on integrations and new ad tech releases.
+- AOP UK Awards 2015, Best Operations Team : Winner (at Unruly as Campaign Manager)
+
+#### Digital Art, Web Design
+
+Over the course of 5 years, I've many accomplishments as a Freelance Artist and Designer, primarily working in Digital Media, often Multimedia.
+
+- Built hardware projects using Arduino, Processing, Raspberry Pi.
+- Exhibited static and interactive installation work in galleries in the UK & USA.
+- Designed and built websites for small businesses and one-off project sites for events.
+- Experience working with children, students and people living with disabilities on a large number of community arts projects.
+- Director, Music Videos and Commercial Work (Representation: [Compulsory](http://compulsoryviewing.co.uk))
+- Attended Ampersand Web Typography Conference 2015, Future of Web Design NY Conference 2015, and JSConf.Asia in both 2014 and 2016.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February to May 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Current student just beginning the Makers Academy course.
+- Begun to learn a range of skills including TDD, Ruby, Rspec
 
-#### Your University / College (start_date to end_date)
+#### Westminster University (2009 to 2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA Contemporary Media Practice
+- 1:1 with Honours
+- Course Committee Member
+- Main Organiser of 2012 Degree Exhibition and Show
 
-#### Any other qualifications
+#### Other qualifications
+
+- Cambridge Regional College
+  - National Diploma: Moving Image (Triple Distinction)
+  - National Award: Interactive Use of Media
+- St John Ambulance Emergency First Aid Trained (expires Feb 2020)
+- Beginners Japanese @ SOAS University Language Centre
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Unruly**
+*Senior Solutions Engineer*  (2016 - Present)
+*Solutions Engineer*  (2014 - 2016)
+*Campaign Manager* (2013 - 2014)
+*Operations Executive*  (2013)
+**Freelance/Self-Employed** (2014 to Present)   
+*Digital Artist*
+*Video Director*
