@@ -1,6 +1,6 @@
 ## Narayan O'Hanlon
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests & Hobbies](#interests-hobbies) | [Portfolio - Digital Artist](http://nryn.co.uk) | [Github](https://github.com/nryn)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests & Hobbies](#interests--hobbies) | [Portfolio - Digital Artist](http://nryn.co.uk) | [Github](https://github.com/nryn)
 
 I'm a Software Engineer with a Solutions background, coming from an XP Product-Development Team in a fast-growing Online Video Tech business.
 I have a proven track record investigating, debugging and fixing all manner of technical and business challenges in a flexible way.
@@ -28,8 +28,8 @@ Often part of the daily exploratory problem-solving tasks undertaken at Unruly i
 
 Over the course of 5 years, I've many accomplishments as a Freelance Artist and Designer, primarily working in Digital Media, often Multimedia. My responsibilities on projects is usually to deliver some kind of art object/project to a client, working independently. Occasionally teamwork is required in the case of the running of an arts event for example. The range of media used and varied nature of clients have proven my ability to learn fresh skills while dealing with new situations responsibly and quickly.
 
-- Built hardware projects using Arduino, e.g. [1](http://nryn.co.uk/post/2527757364/piano-arduino-open-source-hardware-timelapse), [2](http://nryn.co.uk/post/15025651801/fun-installation-in-the-bathroom-at-the-comfort), Processing, e.g. [1](http://nryn.co.uk/post/15025655567/interactive-puzzle-in-which-participants-can-use), [2](http://nryn.co.uk/post/80361137121/stills-from-my-video-for-peh-per-ghosts-track), and [Raspberry Pi](http://nryn.co.uk/post/142115604762/wanda-an-interactive-installation-by-myself-and), often for exhibition.
-- Print and interactive installation work exhibited in galleries in the UK & USA.
+- Built hardware projects using Arduino, e.g. [Piano Piece](http://nryn.co.uk/post/2527757364/piano-arduino-open-source-hardware-timelapse), [Marble Run](http://nryn.co.uk/post/15025651801/fun-installation-in-the-bathroom-at-the-comfort), Processing, e.g. [QR Code Puzzle Sculpture](http://nryn.co.uk/post/15025655567/interactive-puzzle-in-which-participants-can-use), [Music Video using Kinect Camera](http://nryn.co.uk/post/80361137121/stills-from-my-video-for-peh-per-ghosts-track), and Raspberry Pi e.g. [Wanda](http://nryn.co.uk/post/142115604762/wanda-an-interactive-installation-by-myself-and).
+- Interactive installations and print work exhibited in galleries in the UK & USA.
 - Designed and built websites for small businesses and one-off project sites for events.
 - Experience working with children, students and people living with disabilities on a large number of community arts projects and [art festivals](http://www.elcaf.co.uk).
 - Director, Music Videos and Commercial Work (Representation: [Compulsory](http://compulsoryviewing.co.uk))
